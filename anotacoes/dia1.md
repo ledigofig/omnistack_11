@@ -1,5 +1,4 @@
-# Dia 1: 
-## **Conhecendo a Semana Omnistack 11 evento online da Rocketseat**
+# Dia 1 - Conhecendo a Semana Omnistack 11 evento online da Rocketseat
 
 23 a 29 de Março. 
 

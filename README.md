@@ -5,4 +5,5 @@
 
 Anotações das aulas.
 
-[Anotações dia 1](./anotacoes/dia1.md)
+[Dia 1](./anotacoes/dia1.md) | 
+[Dia 2](./anotações/dia2.md) |
