@@ -5,4 +5,4 @@
 
 Anotações das aulas.
 
-[Dia 1](./aulas/README.md)
+[Anotações dia 1](./anotacoes/dia1.md)
