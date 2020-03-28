@@ -2,7 +2,7 @@
 
 Estrutura de pastas e arquivos de um projeto ReactJS, com arquivos que não seram necessários já excluídos. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17d94c05-dabc-459c-8f18-04c8f08f6f64/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17d94c05-dabc-459c-8f18-04c8f08f6f64/Untitled.png)
+![](https://i.imgur.com/kZCl1eH.png)
 
 **Como o ReactJS funciona**
 

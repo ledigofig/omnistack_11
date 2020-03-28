@@ -30,7 +30,7 @@ Com o aplicativo instalado no celular é só fazer a leitura desse QR Code.
 
 Estrutura de pastas de uma projeto React Native
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b0aeb8c-587d-402d-b97b-bb1c961054e6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b0aeb8c-587d-402d-b97b-bb1c961054e6/Untitled.png)
+![](https://i.imgur.com/3xADjEE.png)
 
 Arquivo App.js 
 
