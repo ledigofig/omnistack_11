@@ -23,6 +23,7 @@ Formulário de cadastro de caso.
 ## Mobile - React Native
 
 ![Slash](https://i.imgur.com/IM8z50G.jpg)
+
 Imagem de carregamento do aplicativo.
 
 ![Listagem de casos](https://i.imgur.com/GnitiVI.jpg)
