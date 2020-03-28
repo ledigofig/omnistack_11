@@ -7,3 +7,4 @@ Anotações das aulas.
 
 [Dia 1](./anotacoes/dia1.md) | 
 [Dia 2](./anotacoes/dia2.md) |
+[Dia 3](./anotacoes/dia3.md) |
