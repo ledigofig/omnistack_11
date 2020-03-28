@@ -26,9 +26,11 @@ Formulário de cadastro de caso.
 Imagem de carregamento do aplicativo.
 
 ![Listagem de casos](https://i.imgur.com/GnitiVI.jpg)
+
 Listagem de casos.
 
-![Detalhes](https://i.imgur.com/DRuL5vd.jpg?w=524)
+![Detalhes](https://i.imgur.com/DRuL5vd.jpg?h=500)
+
 Detalhes e ações para entrar em contato.
 
 **Anotações das aulas**.
