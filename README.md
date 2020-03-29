@@ -37,3 +37,4 @@ Detalhes e ações para entrar em contato.
 [Dia 2](./anotacoes/dia2.md) |
 [Dia 3](./anotacoes/dia3.md) |
 [Dia 4](./anotacoes/dia4.md) |
+[Dia 5](./anotacoes/dia5.md)
